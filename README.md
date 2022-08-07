@@ -47,7 +47,7 @@ This lab walks you through creating a CI/CD workflow for serveress applications.
 ## Content 
 
 - [Step 1. Deploy the sample application environment](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-1-Deploy-the-sample-application-environment)
-- [Step 2. Simulate an Application Issue](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#step-2-Simulate-an-Application-Issue)
+- [Step 2. Simulate an Application Issue](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-2-Simulate-an-Application-Issue)
 - [Step 3. Build and Run an Investigative Playbook](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-3-Build-and-Run-an-Investigative-Playbook)
 - [Step 4. Build and Run Remediation Runbook](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-4-Build-and-Run-Remediation-Runbook)
 - [Teardown](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#Teardown)
