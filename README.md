@@ -46,12 +46,12 @@ NOTE: You will be billed for any applicable AWS resources used if you complete t
 This lab walks you through creating a CI/CD workflow for serveress applications. 
 ## Content 
 
-- [Step 1. Deploy the sample application environment](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#step-1-Deploy-the-sample-application-environment)
+- [Step 1. Deploy the sample application environment](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-1-Deploy-the-sample-application-environment)
 - [Step 2. Simulate an Application Issue](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#step-2-Simulate-an-Application-Issue)
-- [Step 3. Build and Run an Investigative Playbook](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#step-3-Build-and-Run-an-Investigative-Playbook)
-- [Step 4. Build and Run Remediation Runbook](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#step-4-Build-and-Run-Remediation-Runbook)
-- [Teardown](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#Teardown)
-- [Summary](https://github.com/awswa/build-and-operate-a-secure-and-successful-cloud-operations-model#Summary)
+- [Step 3. Build and Run an Investigative Playbook](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-3-Build-and-Run-an-Investigative-Playbook)
+- [Step 4. Build and Run Remediation Runbook](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#step-4-Build-and-Run-Remediation-Runbook)
+- [Teardown](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#Teardown)
+- [Summary](https://github.com/aws-samples/build-and-operate-a-secure-and-successful-cloud-operations-model#Summary)
 
 ### Step 1. Deploy the sample application environment
 In this section, you will prepare a sample application. The application is an API hosted inside a docker container, using [Amazon Elastic Compute Service (ECS).](https://aws.amazon.com/ecs/). The container is accessed via an [Application Load Balancer.](https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html) 
