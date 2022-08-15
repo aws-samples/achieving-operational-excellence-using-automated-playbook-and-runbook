@@ -1,5 +1,11 @@
 # Build and operate a secure and successful cloud operations model
 
+This lab is provided as part of **[AWS Innovate For Every Application Edition](https://aws.amazon.com/events/aws-innovate/apj/for-every-app/)**
+
+Click [here](https://github.com/phonghuule/aws-innovate-fea-2022) to explore the full list of hands-on labs.
+
+ℹ️ You will run this lab in your own AWS account. Please follow directions at the end of the lab to remove resources to avoid future costs.
+
 ## Introduction
 
 Manually running your [runbooks](https://wa.aws.amazon.com/wat.concept.runbook.en.html) and [playbooks](https://wa.aws.amazon.com/wat.concept.playbook.en.html) for operational activities has a number of drawbacks:
@@ -1450,3 +1456,11 @@ In this lab you learnt:
 - Build and run automated runbooks to remediate specific faults
 - Enabling traceability of operations activities in your environment
 
+## Survey
+Let us know what you thought of this lab and how we can improve the experience for you in the future by completing [this poll](https://amazonmr.au1.qualtrics.com/jfe/form/SV_6G1rmmzxUkIajTo?Session=HOLFEA003). Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits 1, 2 & 3. AWS credits will be sent via email by September 30, 2022.
+
+Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
+ 
+1. AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/ 
+2. Limited to 1 x USD25 AWS credits per participant.
+3. Participants will be required to provide their business email addresses to receive the gift code for AWS credits.
