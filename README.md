@@ -8,6 +8,8 @@ Click [here](https://github.com/phonghuule/aws-innovate-fea-2022) to explore the
 
 ## Introduction
 
+This lab was derived directly from one of Operataional Excellence Labs named [Automating operations with Playbooks and Runbooks](https://wellarchitectedlabs.com/operational-excellence/200_labs/) in AWS Well-Architected Lab. 
+
 Manually running your [runbooks](https://wa.aws.amazon.com/wat.concept.runbook.en.html) and [playbooks](https://wa.aws.amazon.com/wat.concept.playbook.en.html) for operational activities has a number of drawbacks:
 
 * Activities are prone to errors & difficult to trace. 
