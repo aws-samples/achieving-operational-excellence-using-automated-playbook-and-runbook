@@ -1,4 +1,4 @@
-# Build and operate a secure and successful cloud operations model
+# Achieving Operational Excellence using automated playbook and runbook
 
 This lab is provided as part of **[AWS Innovate For Every Application Edition](https://aws.amazon.com/events/aws-innovate/apj/for-every-app/)**
 
