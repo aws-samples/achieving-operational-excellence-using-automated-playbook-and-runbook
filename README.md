@@ -107,7 +107,7 @@ In this first step you will provision a [CloudFormation](https://aws.amazon.com/
 Next, run the build script to build and deploy you application environment from the Cloud9 workspace as follows:
 
   1. From the main console, access the **Cloud9** service. 
-  2. Click **Your environments** section on the left menu, and locate an environment named `WellArchitectedOps-walab-ops-base-resources` as below, then click **Open IDE**.
+  2. Click **Environments** section on the left menu, and locate an environment named `WellArchitectedOps-walab-ops-base-resources` as below, then click **Open**.
 
       ![Section 2 Cloud9 IDE Welcome Screen](/Images/section2-environment-open-ide.png)
 
