@@ -1450,10 +1450,17 @@ cd ~/environment/aws-well-architected-labs/static/Operations/200_Automating_oper
 ```
 bash teardown_resources.sh
 ```
-
-
 ## Summary
 In this lab you learnt:
 - Build and run automated playbooks to support your investigations
 - Build and run automated runbooks to remediate specific faults
 - Enabling traceability of operations activities in your environment
+
+##Survey
+Let us know what you thought of this session and how we can improve the presentation experience for you in the future by completing this (event session poll)[https://amazonmr.au1.qualtrics.com/jfe/form/SV_1U4cxprfqLngWGy?Session=HOL10]. Participants who complete the surveys from AWS Innovate Online Conference will receive a gift code for USD25 in AWS credits1, 2 & 3. AWS credits will be sent via email by September 29, 2023.
+
+Note: Only registrants of AWS Innovate Online Conference who complete the surveys will receive a gift code for USD25 in AWS credits via email.
+
+1. AWS Promotional Credits Terms and conditions apply: https://aws.amazon.com/awscredits/
+2. Limited to 1 x USD25 AWS credits per participant.
+3. Participants will be required to provide their business email addresses to receive the gift code for AWS credits.
